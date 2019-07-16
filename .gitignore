@@ -1,0 +1,6 @@
+/.vscode/*
+bfg-1.13.0.jar
+/data/*
+/catboost_info/*
+/result/*csv
+/result/*.json
